@@ -5,9 +5,9 @@ Daniel Eduardo Sanchez Pradilla.
 # Objetivo
 Crear modelos de ML para la detección de ataques DDos.
 # Datasets
-IDS 2018 Intrusion CSVs (CSE-CIC-IDS2018) - Link de descarga : https://www.kaggle.com/datasets/solarmainframe/ids-intrusion-csv <br> 
-SDN-DDoS Traffic Dataset - Link de descarga: https://data.mendeley.com/datasets/b7vw628825/1 <br> 
-DDoS Traffic - Link de descarga: https://www.kaggle.com/datasets/oktayrdeki/ddos-traffic-dataset
+IDS 2018 Intrusion CSVs (CSE-CIC-IDS2018) https://www.kaggle.com/datasets/solarmainframe/ids-intrusion-csv <br> 
+SDN-DDoS Traffic Dataset https://data.mendeley.com/datasets/b7vw628825/1 <br> 
+DDoS Traffic https://www.kaggle.com/datasets/oktayrdeki/ddos-traffic-dataset
 # Modelos
 RFC (Random Forest classifier) : Es el modelo que mejor se desempeño durante las pruebas y en este caso el modelo optimó para este problema que es un problema de clasificación.
 # Enlaces
