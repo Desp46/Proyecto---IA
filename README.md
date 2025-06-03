@@ -1,5 +1,5 @@
 # Detección de ataques DDOS
-
+![Banner](https://github.com/Desp46/Proyecto---IA/blob/main/assets/Banner.png)
 # Autor
 Daniel Eduardo Sanchez Pradilla.
 # Objetivo
@@ -11,5 +11,5 @@ DDoS Traffic - Link de descarga: https://www.kaggle.com/datasets/oktayrdeki/ddos
 # Modelos
 RFC (Random Forest classifier) : Es el modelo que mejor se desempeño durante las pruebas y en este caso el modelo optimó para este problema que es un problema de clasificación.
 # Enlaces
-Repositorio : https://colab.research.google.com/drive/1XYL0nde77SOm1KyiXxjeZ8Dk8A9RLxoj?usp=sharing
+Repositorio : https://colab.research.google.com/drive/1XYL0nde77SOm1KyiXxjeZ8Dk8A9RLxoj?usp=sharing <br>
 Video: 
