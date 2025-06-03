@@ -12,4 +12,4 @@ DDoS Traffic https://www.kaggle.com/datasets/oktayrdeki/ddos-traffic-dataset
 RFC (Random Forest classifier) : Es el modelo que mejor se desempeño durante las pruebas y en este caso el modelo optimó para este problema que es un problema de clasificación.
 # Enlaces
 Repositorio : https://colab.research.google.com/drive/1XYL0nde77SOm1KyiXxjeZ8Dk8A9RLxoj?usp=sharing <br>
-Video: 
+Video: https://youtu.be/-pwOTDtUqRk
